@@ -1,0 +1,173 @@
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\bin\Debug\net6.0\Persistence.deps.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\bin\Debug\net6.0\Persistence.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\bin\Debug\net6.0\Persistence.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\bin\Debug\net6.0\Domain.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\bin\Debug\net6.0\Domain.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Safari\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Safari\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.5\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.5\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.5\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\Safari\contact 1.0.6\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Safari\contact 1.0.6\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.6\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.6\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.6\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Safari\contact 1.0.6\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\IzadiPanah\contact 1.0.9\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\IzadiPanah\contact 1.0.9\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.0.9\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.0.9\Persistence\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.0.9\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.0.9\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\IzadiPanah\contact 1.1.4\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\IzadiPanah\contact 1.1.4\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.4\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.4\Persistence\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.4\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.4\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\IzadiPanah\contact 1.1.5\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\IzadiPanah\contact 1.1.5\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.5\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.5\Persistence\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.5\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.5\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\IzadiPanah\contact 1.1.6\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\IzadiPanah\contact 1.1.6\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.6\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.6\Persistence\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.6\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.6\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+D:\IzadiPanah\contact 1.1.7\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\IzadiPanah\contact 1.1.7\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.7\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.7\Persistence\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.7\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\IzadiPanah\contact 1.1.7\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\bin\Debug\net6.0\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Persistence\obj\Debug\net6.0\ref\Persistence.dll

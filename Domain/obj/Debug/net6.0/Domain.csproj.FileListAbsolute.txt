@@ -1,0 +1,129 @@
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\bin\Debug\net6.0\Domain.deps.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\bin\Debug\net6.0\Domain.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\bin\Debug\net6.0\Domain.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\refint\Domain.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\bin\Debug\net6.0\Domain.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Safari\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Safari\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.5\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Safari\contact 1.0.6\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Safari\contact 1.0.6\Domain\bin\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.6\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.dll
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Safari\contact 1.0.6\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IzadiPanah\contact 1.0.9\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IzadiPanah\contact 1.0.9\Domain\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.0.9\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.0.9\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IzadiPanah\contact 1.1.4\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IzadiPanah\contact 1.1.4\Domain\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.4\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.4\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IzadiPanah\contact 1.1.5\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IzadiPanah\contact 1.1.5\Domain\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.5\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.5\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IzadiPanah\contact 1.1.6\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IzadiPanah\contact 1.1.6\Domain\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.6\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.6\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\IzadiPanah\contact 1.1.7\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\IzadiPanah\contact 1.1.7\Domain\bin\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.7\Domain\bin\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.dll
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\Domain.pdb
+D:\IzadiPanah\contact 1.1.7\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\bin\Debug\net6.0\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\bin\Debug\net6.0\Domain.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\Domain.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Domain\obj\Debug\net6.0\ref\Domain.dll

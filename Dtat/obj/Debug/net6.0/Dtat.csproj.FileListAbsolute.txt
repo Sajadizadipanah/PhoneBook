@@ -1,0 +1,133 @@
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.deps.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.csproj.AssemblyReference.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.deps.json
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\bin\Debug\net6.0\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\bin\Debug\net6.0\Dtat.deps.json
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\bin\Debug\net6.0\Dtat.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\bin\Debug\net6.0\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\Safari\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\Safari\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.5\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\Safari\contact 1.0.6\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\Safari\contact 1.0.6\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.6\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\Safari\contact 1.0.6\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\IzadiPanah\contact 1.0.9\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\IzadiPanah\contact 1.0.9\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.0.9\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.0.9\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\IzadiPanah\contact 1.1.4\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\IzadiPanah\contact 1.1.4\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.4\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.4\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\IzadiPanah\contact 1.1.5\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\IzadiPanah\contact 1.1.5\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.5\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.5\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\IzadiPanah\contact 1.1.6\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\IzadiPanah\contact 1.1.6\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.6\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.6\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+D:\IzadiPanah\contact 1.1.7\Dtat\bin\Debug\net6.0\Dtat.deps.json
+D:\IzadiPanah\contact 1.1.7\Dtat\bin\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.7\Dtat\bin\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.dll
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\Dtat.pdb
+D:\IzadiPanah\contact 1.1.7\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\bin\Debug\net6.0\Dtat.deps.json
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\bin\Debug\net6.0\Dtat.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\bin\Debug\net6.0\Dtat.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\Dtat.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\Dtat\obj\Debug\net6.0\ref\Dtat.dll

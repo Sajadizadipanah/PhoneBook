@@ -1,0 +1,772 @@
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.StartupForm.resources
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+H:\C#\.NET 6\WINDOWS_FORMS_USER_MANAGEMENT\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.EditContact.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.MainForm.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.StartupForm.resources
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+E:\Users\S.F.H\Source\Repos\MyApplication - Template\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.EditContact.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.MainForm.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.StartupForm.resources
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Users\S.F.H\Source\Repos\contact 1.0.2\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\Safari\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.MainForm.resources
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.ContactInformationForm.resources
+D:\Safari\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.EditContactForm.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.ContactInformationForm.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.EditContactForm.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.MainForm.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\Safari\contact 1.0.2\contact 1.0.5\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\Safari\contact 1.0.6\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.MainForm.resources
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\Safari\contact 1.0.6\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\IzadiPanah\contact 1.0.9\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\IzadiPanah\contact 1.0.9\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\IzadiPanah\contact 1.1.4\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\IzadiPanah\contact 1.1.4\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\IzadiPanah\contact 1.1.5\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\IzadiPanah\contact 1.1.5\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\IzadiPanah\contact 1.1.6\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\IzadiPanah\contact 1.1.6\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+D:\IzadiPanah\contact 1.1.7\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+D:\IzadiPanah\contact 1.1.7\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\MyApplication.exe
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\MyApplication.deps.json
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\MyApplication.runtimeconfig.json
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\MyApplication.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\MyApplication.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Domain.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Dtat.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Persistence.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Dtat.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Domain.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\bin\Debug\net6.0-windows\Persistence.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.AssemblyReference.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\Infrastructure.BaseForm.resources
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.NewContact.resources
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.PhoneBookForm.resources
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.SearchContact.resources
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.GenerateResource.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfoInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.AssemblyInfo.cs
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CoreCompileInputs.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.csproj.CopyComplete
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\refint\MyApplication.dll
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.pdb
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\MyApplication.genruntimeconfig.cache
+E:\MyProject\IzadiPanah\contact 1.1.8\MyApplication\obj\Debug\net6.0-windows\ref\MyApplication.dll
