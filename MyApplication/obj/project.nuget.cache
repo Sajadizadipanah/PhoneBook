@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fEmYYtSbNMfose7wP8ItG38tOFoEhunShBaluMYASNHMNPiBiKgpqcN5IVQ4ioNlTzHr7wL9aKwwLsreDwmFQA==",
+  "dgSpecHash": "Gamkwcxy6OyCN9JFDq/TQqj4fXhkQC+n3+WZXUZm5ueZdhDTMmj0q7GB8Kq1OO9w9NpmbkyxLHV6RMIsej3kyg==",
   "success": true,
-  "projectFilePath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\MyApplication\\MyApplication.csproj",
+  "projectFilePath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\MyApplication\\MyApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.F.H\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\S.F.H\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -142,3 +142,14 @@ E:\MyProject\IzadiPanah\contact 1.1.9\Dtat\obj\Debug\net6.0\Dtat.dll
 E:\MyProject\IzadiPanah\contact 1.1.9\Dtat\obj\Debug\net6.0\refint\Dtat.dll
 E:\MyProject\IzadiPanah\contact 1.1.9\Dtat\obj\Debug\net6.0\Dtat.pdb
 E:\MyProject\IzadiPanah\contact 1.1.9\Dtat\obj\Debug\net6.0\ref\Dtat.dll
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\bin\Debug\net6.0\Dtat.deps.json
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\bin\Debug\net6.0\Dtat.dll
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\bin\Debug\net6.0\Dtat.pdb
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfoInputs.cache
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.AssemblyInfo.cs
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.csproj.CoreCompileInputs.cache
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.dll
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\refint\Dtat.dll
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\Dtat.pdb
+C:\Users\S.F.H\Downloads\PhoneBook-main\Dtat\obj\Debug\net6.0\ref\Dtat.dll

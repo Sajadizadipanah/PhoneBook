@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iKTUUs/BX94daYyjtXJ63P853UoQEdtEEQTORFueRDMLa6bVlZwtC1FFObBGzdsrZjl122tsvFCYvRb52roG9A==",
+  "dgSpecHash": "cIDEeft51zeoNhy/01mu+ReijKqeDNre+GttIcfcEe6S0Vea61UGrPiTi15sk3i/Eo50zSp08FJPG8Rudk8mvw==",
   "success": true,
-  "projectFilePath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S.F.H\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\S.F.H\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

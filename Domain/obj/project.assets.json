@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\S.F.H\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S.F.H\\AppData\\Roaming\\NuGet\\NuGet.Config",

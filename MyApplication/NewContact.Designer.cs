@@ -238,6 +238,7 @@
             testOrganizationComboBox.Size = new Size(256, 23);
             testOrganizationComboBox.Sorted = true;
             testOrganizationComboBox.TabIndex = 5;
+            memberTestOrganizationComboBob();
             // 
             // NewContact
             // 
