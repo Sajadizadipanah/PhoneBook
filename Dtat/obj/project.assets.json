@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Dtat\\Dtat.csproj",
+      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Dtat\\Dtat.csproj",
       "projectName": "Dtat",
-      "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Dtat\\Dtat.csproj",
+      "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Dtat\\Dtat.csproj",
       "packagesPath": "C:\\Users\\S.F.H\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Dtat\\obj\\",
+      "outputPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Dtat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S.F.H\\AppData\\Roaming\\NuGet\\NuGet.Config",

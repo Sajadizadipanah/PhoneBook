@@ -134,7 +134,7 @@ public partial class PhoneBookForm : Infrastructure.BaseForm
         informationForm.testOrganizationComboBox.Text = Infrastructure.Utility.CurrentContact.Organization;
         informationForm.Text = "Contact Information";
     }
-    
+
     private void timer1_Tick(object sender, EventArgs e)
     {
         timePicker.Value = DateTime.Now;

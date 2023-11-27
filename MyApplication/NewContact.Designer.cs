@@ -230,6 +230,7 @@
             // testOrganizationComboBox
             // 
             testOrganizationComboBox.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
+            testOrganizationComboBox.DropDownStyle = ComboBoxStyle.DropDownList;
             testOrganizationComboBox.FormattingEnabled = true;
             testOrganizationComboBox.Location = new Point(99, 64);
             testOrganizationComboBox.Name = "testOrganizationComboBox";
@@ -237,8 +238,6 @@
             testOrganizationComboBox.Size = new Size(256, 23);
             testOrganizationComboBox.Sorted = true;
             testOrganizationComboBox.TabIndex = 5;
-            // testOrganizationComboBox.Text = "memberTestOrganizationComboBob";
-            memberTestOrganizationComboBob();
             // 
             // NewContact
             // 

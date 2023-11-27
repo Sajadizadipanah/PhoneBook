@@ -38,8 +38,8 @@
             phoneBookDataGridView = new Dtat.Windows.Forms.DataGridView();
             monthCalendar = new MonthCalendar();
             timer1 = new System.Windows.Forms.Timer(components);
-            administratorLabel = new Dtat.Windows.Forms.Label();
             administratorLabels = new Dtat.Windows.Forms.Label();
+            label1 = new Dtat.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)phoneBookDataGridView).BeginInit();
             SuspendLayout();
             // 
@@ -67,7 +67,7 @@
             // 
             timePicker.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             timePicker.Format = DateTimePickerFormat.Time;
-            timePicker.Location = new Point(694, 27);
+            timePicker.Location = new Point(413, 12);
             timePicker.Name = "timePicker";
             timePicker.Size = new Size(101, 23);
             timePicker.TabIndex = 5;
@@ -76,7 +76,7 @@
             // exitButton
             // 
             exitButton.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
-            exitButton.Location = new Point(643, 476);
+            exitButton.Location = new Point(720, 476);
             exitButton.Name = "exitButton";
             exitButton.Size = new Size(75, 23);
             exitButton.TabIndex = 3;
@@ -123,7 +123,7 @@
             // 
             monthCalendar.Anchor = AnchorStyles.Top | AnchorStyles.Right;
             monthCalendar.FirstDayOfWeek = Day.Saturday;
-            monthCalendar.Location = new Point(413, 62);
+            monthCalendar.Location = new Point(407, 47);
             monthCalendar.Name = "monthCalendar";
             monthCalendar.ShowWeekNumbers = true;
             monthCalendar.TabIndex = 8;
@@ -132,25 +132,25 @@
             // 
             timer1.Tick += timer1_Tick;
             // 
-            // administratorLabel
-            // 
-            administratorLabel.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
-            administratorLabel.AutoSize = true;
-            administratorLabel.Location = new Point(724, 472);
-            administratorLabel.Name = "administratorLabel";
-            administratorLabel.Size = new Size(47, 15);
-            administratorLabel.TabIndex = 9;
-            administratorLabel.Text = "@Safari";
-            // 
             // administratorLabels
             // 
             administratorLabels.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
             administratorLabels.AutoSize = true;
-            administratorLabels.Location = new Point(724, 487);
+            administratorLabels.Location = new Point(662, 8);
             administratorLabels.Name = "administratorLabels";
             administratorLabels.Size = new Size(75, 15);
             administratorLabels.TabIndex = 10;
             administratorLabels.Text = "@Izadipanah";
+            // 
+            // label1
+            // 
+            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
+            label1.AutoSize = true;
+            label1.Location = new Point(656, 23);
+            label1.Name = "label1";
+            label1.Size = new Size(133, 15);
+            label1.TabIndex = 11;
+            label1.Text = "Sajad10375@gmail.com";
             // 
             // PhoneBookForm
             // 
@@ -159,8 +159,8 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             CancelButton = exitButton;
             ClientSize = new Size(807, 511);
+            Controls.Add(label1);
             Controls.Add(administratorLabels);
-            Controls.Add(administratorLabel);
             Controls.Add(monthCalendar);
             Controls.Add(phoneBookDataGridView);
             Controls.Add(searchContactButton);
@@ -186,7 +186,7 @@
         public Dtat.Windows.Forms.DataGridView phoneBookDataGridView;
         public MonthCalendar monthCalendar;
         public System.Windows.Forms.Timer timer1;
-        private Dtat.Windows.Forms.Label administratorLabel;
         private Dtat.Windows.Forms.Label administratorLabels;
+        private Dtat.Windows.Forms.Label label1;
     }
 }

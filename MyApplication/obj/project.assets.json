@@ -2680,11 +2680,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\MyApplication\\MyApplication.csproj",
+      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\MyApplication\\MyApplication.csproj",
       "projectName": "MyApplication",
-      "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\MyApplication\\MyApplication.csproj",
+      "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\MyApplication\\MyApplication.csproj",
       "packagesPath": "C:\\Users\\S.F.H\\.nuget\\packages\\",
-      "outputPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\MyApplication\\obj\\",
+      "outputPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\MyApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S.F.H\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2701,14 +2701,14 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Domain\\Domain.csproj": {
-              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Domain\\Domain.csproj"
+            "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Domain\\Domain.csproj"
             },
-            "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Dtat\\Dtat.csproj": {
-              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Dtat\\Dtat.csproj"
+            "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Dtat\\Dtat.csproj": {
+              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Dtat\\Dtat.csproj"
             },
-            "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Persistence\\Persistence.csproj": {
-              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.8\\Persistence\\Persistence.csproj"
+            "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Persistence\\Persistence.csproj": {
+              "projectPath": "E:\\MyProject\\IzadiPanah\\contact 1.1.9\\Persistence\\Persistence.csproj"
             }
           }
         }
