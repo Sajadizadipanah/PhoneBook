@@ -3244,11 +3244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "E:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Persistence\\Persistence.csproj",
+      "projectPath": "E:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\S.F.H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Persistence\\obj\\",
+      "outputPath": "E:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\S.F.H\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3265,8 +3265,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\S.F.H\\Downloads\\PhoneBook-main\\Domain\\Domain.csproj"
+            "E:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\Domain\\Domain.csproj": {
+              "projectPath": "E:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\Domain\\Domain.csproj"
             }
           }
         }

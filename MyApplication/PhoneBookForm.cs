@@ -25,9 +25,49 @@ public partial class PhoneBookForm : Infrastructure.BaseForm
         ActiveInstance = this;
     }
 
+    public static bool Exit()
+    {
+        var result =
+            System.Windows.Forms.MessageBox.Show
+            (text: "Are you sure?",
+            caption: "Question",
+            buttons: System.Windows.Forms.MessageBoxButtons.YesNo,
+            icon: System.Windows.Forms.MessageBoxIcon.Question,
+            defaultButton: System.Windows.Forms.MessageBoxDefaultButton.Button2);
+
+        if (result == System.Windows.Forms.DialogResult.Yes)
+        {
+            System.Windows.Forms.Application.Exit();
+
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
     private void exitButton_Click(object sender, EventArgs e)
     {
-        Application.Exit();
+
+        var result =
+           System.Windows.Forms.MessageBox.Show
+           (text: "Are you sure to exit the phonebook?",
+           caption: "Question",
+           buttons: System.Windows.Forms.MessageBoxButtons.YesNo,
+           icon: System.Windows.Forms.MessageBoxIcon.Question,
+           defaultButton: System.Windows.Forms.MessageBoxDefaultButton.Button2);
+
+        if (result == System.Windows.Forms.DialogResult.Yes)
+        {
+            Application.Exit();
+            return;
+        }
+        else
+        {
+            return;
+        }
+
     }
 
     private List<Contact> Contacts;
@@ -39,8 +79,6 @@ public partial class PhoneBookForm : Infrastructure.BaseForm
         timer1.Interval = (1 * 1000);
         timer1.Tick += new EventHandler(timer1_Tick);
         timer1.Start();
-
-
     }
 
     public async void RefreshContactDataGrid()

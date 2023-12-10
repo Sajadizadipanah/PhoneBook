@@ -36,7 +36,6 @@
             timePicker = new DateTimePicker();
             exitButton = new Dtat.Windows.Forms.Button();
             phoneBookDataGridView = new Dtat.Windows.Forms.DataGridView();
-            monthCalendar = new MonthCalendar();
             timer1 = new System.Windows.Forms.Timer(components);
             administratorLabels = new Dtat.Windows.Forms.Label();
             label1 = new Dtat.Windows.Forms.Label();
@@ -45,7 +44,8 @@
             // 
             // searchContactButton
             // 
-            searchContactButton.Location = new Point(12, 476);
+            searchContactButton.Anchor = AnchorStyles.None;
+            searchContactButton.Location = new Point(2, 10);
             searchContactButton.Name = "searchContactButton";
             searchContactButton.Size = new Size(75, 23);
             searchContactButton.TabIndex = 0;
@@ -55,7 +55,8 @@
             // 
             // newContactButton
             // 
-            newContactButton.Location = new Point(93, 476);
+            newContactButton.Anchor = AnchorStyles.None;
+            newContactButton.Location = new Point(83, 10);
             newContactButton.Name = "newContactButton";
             newContactButton.Size = new Size(75, 23);
             newContactButton.TabIndex = 1;
@@ -65,18 +66,20 @@
             // 
             // timePicker
             // 
-            timePicker.Anchor = AnchorStyles.Top | AnchorStyles.Right;
+            timePicker.Anchor = AnchorStyles.None;
             timePicker.Format = DateTimePickerFormat.Time;
-            timePicker.Location = new Point(413, 12);
+            timePicker.Location = new Point(251, 10);
             timePicker.Name = "timePicker";
-            timePicker.Size = new Size(101, 23);
+            timePicker.Size = new Size(154, 23);
             timePicker.TabIndex = 5;
             timePicker.TabStop = false;
             // 
             // exitButton
             // 
-            exitButton.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
-            exitButton.Location = new Point(720, 476);
+            exitButton.Anchor = AnchorStyles.None;
+            exitButton.FlatStyle = FlatStyle.Popup;
+            exitButton.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
+            exitButton.Location = new Point(330, 382);
             exitButton.Name = "exitButton";
             exitButton.Size = new Size(75, 23);
             exitButton.TabIndex = 3;
@@ -89,7 +92,8 @@
             phoneBookDataGridView.AllowUserToAddRows = false;
             phoneBookDataGridView.AllowUserToDeleteRows = false;
             phoneBookDataGridView.AllowUserToResizeRows = false;
-            phoneBookDataGridView.Anchor = AnchorStyles.Top | AnchorStyles.Left | AnchorStyles.Right;
+            phoneBookDataGridView.Anchor = AnchorStyles.None;
+            phoneBookDataGridView.BorderStyle = BorderStyle.Fixed3D;
             dataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleCenter;
             dataGridViewCellStyle1.BackColor = SystemColors.Control;
             dataGridViewCellStyle1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
@@ -99,7 +103,7 @@
             dataGridViewCellStyle1.WrapMode = DataGridViewTriState.True;
             phoneBookDataGridView.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle1;
             phoneBookDataGridView.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            phoneBookDataGridView.Location = new Point(12, 12);
+            phoneBookDataGridView.Location = new Point(2, 42);
             phoneBookDataGridView.MultiSelect = false;
             phoneBookDataGridView.Name = "phoneBookDataGridView";
             phoneBookDataGridView.RowHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
@@ -115,18 +119,9 @@
             phoneBookDataGridView.RowHeadersWidthSizeMode = DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             phoneBookDataGridView.RowTemplate.Height = 25;
             phoneBookDataGridView.RowTemplate.Resizable = DataGridViewTriState.False;
-            phoneBookDataGridView.Size = new Size(389, 458);
+            phoneBookDataGridView.Size = new Size(403, 334);
             phoneBookDataGridView.TabIndex = 7;
             phoneBookDataGridView.CellDoubleClick += phoneBookDataGridView_CellDoubleClick;
-            // 
-            // monthCalendar
-            // 
-            monthCalendar.Anchor = AnchorStyles.Top | AnchorStyles.Right;
-            monthCalendar.FirstDayOfWeek = Day.Saturday;
-            monthCalendar.Location = new Point(407, 47);
-            monthCalendar.Name = "monthCalendar";
-            monthCalendar.ShowWeekNumbers = true;
-            monthCalendar.TabIndex = 8;
             // 
             // timer1
             // 
@@ -134,9 +129,9 @@
             // 
             // administratorLabels
             // 
-            administratorLabels.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
+            administratorLabels.Anchor = AnchorStyles.None;
             administratorLabels.AutoSize = true;
-            administratorLabels.Location = new Point(662, 8);
+            administratorLabels.Location = new Point(2, 379);
             administratorLabels.Name = "administratorLabels";
             administratorLabels.Size = new Size(75, 15);
             administratorLabels.TabIndex = 10;
@@ -144,9 +139,9 @@
             // 
             // label1
             // 
-            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Right;
+            label1.Anchor = AnchorStyles.None;
             label1.AutoSize = true;
-            label1.Location = new Point(656, 23);
+            label1.Location = new Point(2, 394);
             label1.Name = "label1";
             label1.Size = new Size(133, 15);
             label1.TabIndex = 11;
@@ -158,17 +153,17 @@
             AutoScaleMode = AutoScaleMode.None;
             BackgroundImageLayout = ImageLayout.Stretch;
             CancelButton = exitButton;
-            ClientSize = new Size(807, 511);
+            ClientSize = new Size(414, 411);
+            ControlBox = false;
             Controls.Add(label1);
             Controls.Add(administratorLabels);
-            Controls.Add(monthCalendar);
             Controls.Add(phoneBookDataGridView);
             Controls.Add(searchContactButton);
             Controls.Add(newContactButton);
             Controls.Add(exitButton);
             Controls.Add(timePicker);
-            MaximumSize = new Size(1200, 550);
-            MinimumSize = new Size(823, 550);
+            MaximumSize = new Size(430, 450);
+            MinimumSize = new Size(430, 450);
             Name = "PhoneBookForm";
             Text = "Phone Book";
             WindowState = FormWindowState.Maximized;
@@ -184,7 +179,6 @@
         public DateTimePicker timePicker;
         public Dtat.Windows.Forms.Button exitButton;
         public Dtat.Windows.Forms.DataGridView phoneBookDataGridView;
-        public MonthCalendar monthCalendar;
         public System.Windows.Forms.Timer timer1;
         private Dtat.Windows.Forms.Label administratorLabels;
         private Dtat.Windows.Forms.Label label1;
