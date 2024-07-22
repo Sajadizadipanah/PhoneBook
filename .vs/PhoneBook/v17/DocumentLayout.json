@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\infrastructure\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\infrastructure\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\newcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\newcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\searchcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\searchcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\phonebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\phonebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|f:\\myproject\\izadipanah\\phonebook_1\\phonebook\\myapplication\\phonebookform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{AF9ADF81-9709-4747-BD29-7F2C90D834DE}|MyApplication\\MyApplication.csproj|solutionrelative:myapplication\\phonebookform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseForm.cs [Design]",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\Infrastructure\\BaseForm.cs",
+              "RelativeDocumentMoniker": "MyApplication\\Infrastructure\\BaseForm.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\Infrastructure\\BaseForm.cs [Design]",
+              "RelativeToolTip": "MyApplication\\Infrastructure\\BaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:58:00.741Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewContact.cs [Design]",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\NewContact.cs",
+              "RelativeDocumentMoniker": "MyApplication\\NewContact.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\NewContact.cs [Design]",
+              "RelativeToolTip": "MyApplication\\NewContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:53.676Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchContact.cs [Design]",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\SearchContact.cs",
+              "RelativeDocumentMoniker": "MyApplication\\SearchContact.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\SearchContact.cs [Design]",
+              "RelativeToolTip": "MyApplication\\SearchContact.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:51.718Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhoneBookForm.cs [Design]",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.cs",
+              "RelativeDocumentMoniker": "MyApplication\\PhoneBookForm.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.cs [Design]*",
+              "RelativeToolTip": "MyApplication\\PhoneBookForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:40.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhoneBookForm.cs",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.cs",
+              "RelativeDocumentMoniker": "MyApplication\\PhoneBookForm.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.cs*",
+              "RelativeToolTip": "MyApplication\\PhoneBookForm.cs*",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwE8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneBookForm.Designer.cs",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.Designer.cs",
+              "RelativeDocumentMoniker": "MyApplication\\PhoneBookForm.Designer.cs",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.Designer.cs",
+              "RelativeToolTip": "MyApplication\\PhoneBookForm.Designer.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAowBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:57:03.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhoneBookForm.resx",
+              "DocumentMoniker": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.resx",
+              "RelativeDocumentMoniker": "MyApplication\\PhoneBookForm.resx",
+              "ToolTip": "F:\\MyProject\\IzadiPanah\\PhoneBook_1\\PhoneBook\\MyApplication\\PhoneBookForm.resx",
+              "RelativeToolTip": "MyApplication\\PhoneBookForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-08T09:57:00.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
